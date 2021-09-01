@@ -1,0 +1,22 @@
+[
+{
+	"order_id": "ORD001",
+	"orderer_name": "John",
+	"category":{
+	"category_id": "CAT001",
+	"category_name": "mobile"
+	},
+	"brand":{
+	"brand_id": "BRN002",
+	"brand_name": "Samsung"
+	},
+	"items":{
+	"item id": "005",
+	"item name": "Samsung Galaxy J7",
+	"price": 11890
+	},
+	"order_date": "12-12-2017",
+	"shipping_date": "17-12-2017"
+}
+]
+
